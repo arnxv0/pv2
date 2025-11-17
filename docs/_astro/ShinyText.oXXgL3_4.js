@@ -1,0 +1,1 @@
+import{j as n}from"./jsx-runtime.D_zvdyIk.js";/* empty css                       */const l=({text:t,disabled:s=!1,speed:e=5,className:i=""})=>{const a=`${e}s`;return n.jsx("div",{className:`shiny-text ${s?"disabled":""} ${i}`,style:{animationDuration:a},children:t})};export{l as default};
