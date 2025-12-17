@@ -1,1 +1,0 @@
-import{t as o}from"./analytics.Dnfmzn7L.js";document.querySelectorAll("[data-back-button]").forEach(t=>{t.addEventListener("click",()=>{const a=t.getAttribute("data-back-button");o("back_button",{button_location:"about_page",destination:a})})});
