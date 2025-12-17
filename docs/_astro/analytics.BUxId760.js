@@ -1,1 +1,0 @@
-const a=(t,n)=>{typeof window<"u"&&window.gtag&&window.gtag("event",t,n)},c=(t,n,o,e)=>{a("button_click",{button_type:t,content_type:n,content_name:o,page_path:window.location.pathname,...e})};export{c as t};

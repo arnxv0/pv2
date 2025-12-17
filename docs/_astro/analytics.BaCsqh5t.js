@@ -1,0 +1,1 @@
+const c=(t,n)=>{typeof window<"u"&&window.gtag?(console.log("📊 GA4 Event:",t,n),window.gtag("event",t,n)):console.warn("⚠️ Google Analytics not loaded")},a=(t,n,o,e)=>{c("button_click",{button_type:t,content_type:n,content_name:o,page_path:window.location.pathname,...e})};export{a as t};
