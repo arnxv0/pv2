@@ -1,1 +1,0 @@
-import{a as e}from"./analytics.BOZqo_b0.js";document.querySelectorAll("[data-back-button]").forEach(t=>{t.addEventListener("click",()=>{const a=t.getAttribute("data-back-button");a&&e("navigation","page",a,{source_page:"about"})})});
